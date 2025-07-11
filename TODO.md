@@ -1,7 +1,7 @@
 ### NBA CLI TODO
 
-- [ ] Compile a C++ program
 - [ ] Get Python webscraper working
+- [ ] Compile a C++ program
 - [ ] Get C++ CLI working
 - [ ] Integrate Python webscraper into C++
 
@@ -15,3 +15,5 @@
 
 - [ ] Create a header for the CLI
 - [ ] Add fun colors
+
+
