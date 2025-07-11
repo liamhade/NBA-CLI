@@ -9,5 +9,4 @@ If that doesn't work, I'm just going to use swar's NBA API from
 'https://github.com/swar/nba_api'
 
 For the sake of completing this project, I'm just going to use the
-api I listed above.
-
+API I listed above.
